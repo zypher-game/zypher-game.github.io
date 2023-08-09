@@ -1,0 +1,1 @@
+(self.webpackChunkbingo_frontend=self.webpackChunkbingo_frontend||[]).push([[563],{36563:()=>{}}]);
