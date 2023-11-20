@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbingo_frontend=self.webpackChunkbingo_frontend||[]).push([[6204],{96204:(n,e,t)=>{t.r(e),t.d(e,{default:()=>u});var r=t(67294);const u=function(){return r.createElement("div",null,"404")}}}]);
