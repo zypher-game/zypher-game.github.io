@@ -1,0 +1,18 @@
+/*!
+ * Draggabilly v3.0.0
+ * Make that shiz draggable
+ * https://draggabilly.desandro.com
+ * MIT license
+ */
+
+/*!
+ * Infinite Scroll v2.0.4
+ * measure size of elements
+ * MIT license
+ */
+
+/*!
+ * Unidragger v3.0.1
+ * Draggable base class
+ * MIT license
+ */
